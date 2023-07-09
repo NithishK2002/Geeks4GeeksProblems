@@ -74,4 +74,26 @@ public class MyClass {
             System.out.println();
         }
     }
+    static void pattern14(int n)
+    {
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=1;j<=i;j++)
+            {
+                System.out.print((char)(j+64)+" ");
+            }
+            System.out.println();
+        }
+    }
+    static void pattern15(int n)
+    {
+        for(int i=5;i>=1;i--)
+        {
+            for(int j=1;j<=i;j++)
+            {
+                System.out.print((char)(j+64)+" ");
+            }
+            System.out.println();
+        }
+    }
 }
