@@ -62,18 +62,8 @@ public class MyClass {
         }
         
     }
+    
     static void pattern13(int n)
-    {
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<=i;j++)
-            {
-                System.out.print(i+1+j+" ");
-            }
-            System.out.println();
-        }
-    }
-    static void pattern14(int n)
     {
         int temp=1;
         for(int i=1;i<=n;i++)
