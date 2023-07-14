@@ -1,7 +1,7 @@
 public class MyClass {
     public static void main(String args[]) {
       
-        pattern14(5);
+        pattern14(5); //Run any pattern here
     }
     static void pattern10(int n)
     {
