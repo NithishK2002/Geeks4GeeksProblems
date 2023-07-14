@@ -213,4 +213,42 @@ public class MyClass {
             System.out.println();
         }
     }
+    static void pattern22(int n)
+    {
+        int n1=n;
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<i;j++)
+            {
+                System.out.print(n1--);
+            }
+            for(int j=0;j<2*n-(i+1)-i;j++)
+            {
+                System.out.print(n1);
+            }
+            for(int j=0;j<i;j++)
+            {
+                System.out.print(++n1);
+            }
+            System.out.println();
+        }
+        for(int i=n-2;i>=0;i--)
+        {
+            for(int j=0;j<i;j++)
+            {
+                System.out.print(n1--);
+            }
+            for(int j=0;j<2*n-(i+1)-i;j++)
+            {
+                System.out.print(n1);
+            }
+            for(int j=0;j<i;j++)
+            {
+                System.out.print(++n1);
+            }
+            System.out.println();
+        }
+    }
+
+    //Happy Patterns Completed
 }
