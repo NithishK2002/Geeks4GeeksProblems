@@ -249,6 +249,34 @@ public class MyClass {
             System.out.println();
         }
     }
+    static void pattern22ALT(int n)
+    {
+        int t=0;
+        int limit=2*n+1;
+        for(int i=0;i<limit;i++)
+        {
+            for(int j=0;j<limit;j++)
+            {
+                if((j<=i && i<n+1)||((i+j)<=limit-1 && i>n))
+                {
+                    System.out.print(n-j+" ");
+                    t=n-j;
+                }
+                
+                else if((j>=i && i>n) || ((i+j)>=limit-1 && i<=n))
+                {
+                    System.out.print(j-n+" ");
+                }
+                else
+                {
+                    System.out.print(t+" ");
+                }
+                
+            }
+            System.out.println();
+        }
+    }
+    
 
     //Happy Patterns Completed
 }
