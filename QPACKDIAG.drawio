@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T05:50:04.816Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Cjg-hAmklRPDfw3rJPUR" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T05:52:19.729Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="1NgyQnOwP5J9eMBYjatc" version="24.5.2" type="github">
   <diagram name="Page-1" id="rB43j8RhS7YDx2vSrmHb">
-    <mxGraphModel dx="2439" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4910" dy="3738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,14 +43,11 @@
         <mxCell id="luZTjx40LB_68a69q-34-17" value="FRAMING LAYER " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="4375" y="355" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="luZTjx40LB_68a69q-34-58" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="2080" y="15" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="luZTjx40LB_68a69q-34-60" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1890" y="70" width="450" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="luZTjx40LB_68a69q-34-61" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;1&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;:authority&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1900" y="80" width="170" height="50" as="geometry" />
+        <mxCell id="luZTjx40LB_68a69q-34-61" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;1&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; :authority&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1915" y="80" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="luZTjx40LB_68a69q-34-62" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;61&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;www-authenticate&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1900" y="180" width="340" height="50" as="geometry" />
@@ -63,9 +60,6 @@
         </mxCell>
         <mxCell id="luZTjx40LB_68a69q-34-67" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1890" y="330" width="450" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="luZTjx40LB_68a69q-34-68" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;62&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;location&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;https://zoho.com&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1890" y="345" width="430" height="50" as="geometry" />
         </mxCell>
         <mxCell id="luZTjx40LB_68a69q-34-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.006;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="luZTjx40LB_68a69q-34-2" target="luZTjx40LB_68a69q-34-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -337,12 +331,13 @@
         <mxCell id="luZTjx40LB_68a69q-34-178" value="&lt;div align=&quot;center&quot; style=&quot;font-size: 100px;&quot;&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;HTTP/2 HPACK OVERVIEW&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1125" y="-250" width="1300" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="luZTjx40LB_68a69q-34-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="luZTjx40LB_68a69q-34-150" target="luZTjx40LB_68a69q-34-68" edge="1">
+        <mxCell id="luZTjx40LB_68a69q-34-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="luZTjx40LB_68a69q-34-150" target="wvwlTENvmum87CmziHwN-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1820" y="533" />
-              <mxPoint x="1820" y="367" />
+              <mxPoint x="1840" y="533" />
+              <mxPoint x="1840" y="370" />
             </Array>
+            <mxPoint x="1571.9899999999993" y="624.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="luZTjx40LB_68a69q-34-181" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;HTTP REQUEST 1 ADDED THIS ENTRY &lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
@@ -354,8 +349,8 @@
         <mxCell id="luZTjx40LB_68a69q-34-183" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1155" y="70" width="450" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="luZTjx40LB_68a69q-34-184" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;1&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;:authority&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1165" y="80" width="170" height="50" as="geometry" />
+        <mxCell id="luZTjx40LB_68a69q-34-184" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;1&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;    &lt;/span&gt;:authority&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1170" y="80" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="luZTjx40LB_68a69q-34-185" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;61&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;www-authenticate&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1165" y="180" width="340" height="50" as="geometry" />
@@ -369,8 +364,8 @@
         <mxCell id="luZTjx40LB_68a69q-34-187" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1155" y="330" width="450" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="luZTjx40LB_68a69q-34-188" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;62&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;location&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;https://zoho.com&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1165" y="345" width="430" height="50" as="geometry" />
+        <mxCell id="luZTjx40LB_68a69q-34-188" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;62&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;referer&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;https://www.zoho.com&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1160" y="350" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luZTjx40LB_68a69q-34-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="luZTjx40LB_68a69q-34-99" target="luZTjx40LB_68a69q-34-188" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1154,6 +1149,12 @@
         </mxCell>
         <mxCell id="wvwlTENvmum87CmziHwN-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Referenced entry with index 62&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5115" y="800" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwlTENvmum87CmziHwN-13" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;STATIC TABLE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1955" y="-10" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwlTENvmum87CmziHwN-14" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;62&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;referer&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;https://www.zoho.com&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1895" y="350" width="440" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
