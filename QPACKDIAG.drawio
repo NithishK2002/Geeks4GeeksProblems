@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T05:43:18.835Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="J2sb_6LK-2hqfrWqlu7V" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T05:44:34.904Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="UWfpjv_Oou7u4ZveoqGl" version="24.5.2" type="github">
   <diagram name="Page-1" id="rB43j8RhS7YDx2vSrmHb">
     <mxGraphModel dx="2439" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,14 +93,11 @@
         <mxCell id="luZTjx40LB_68a69q-34-88" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;REQUEST 2&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="4530" y="1050" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="luZTjx40LB_68a69q-34-89" value="During encoding " style="text;whiteSpace=wrap;html=1;rotation=400;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4710" y="395" width="310" height="40" as="geometry" />
+        <mxCell id="luZTjx40LB_68a69q-34-89" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;During encoding request1 headers, referer name and value added in dynamic table&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;rotation=400;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="4720" y="405" width="280.35" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luZTjx40LB_68a69q-34-92" value="Points to this entry 62 " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="5130" y="725" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="luZTjx40LB_68a69q-34-94" value="After dereferencing&lt;br&gt;" style="text;whiteSpace=wrap;html=1;rotation=270;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4272.5" y="710" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luZTjx40LB_68a69q-34-96" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="290" y="435" width="460" height="265" as="geometry" />
