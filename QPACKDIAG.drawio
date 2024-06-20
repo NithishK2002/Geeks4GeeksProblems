@@ -1,10 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T09:52:16.189Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="eDld1GGDsEG9ijVlvDuO" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T09:54:22.811Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="VXbMlsZx6VPZ9RNzFkAd" version="24.5.4" type="github">
   <diagram name="Page-1" id="rB43j8RhS7YDx2vSrmHb">
     <mxGraphModel dx="30560" dy="10827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CUMsRrcN4JXkig_kcpdD-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CUMsRrcN4JXkig_kcpdD-120" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="15090" y="12250" width="5990" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMsRrcN4JXkig_kcpdD-119" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="15100" y="11440" width="5840" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMsRrcN4JXkig_kcpdD-117" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;" vertex="1" parent="1">
           <mxGeometry x="16020" y="14260" width="5840" height="740" as="geometry" />
         </mxCell>
         <mxCell id="CUMsRrcN4JXkig_kcpdD-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=15;" edge="1" parent="1">
@@ -1520,7 +1526,7 @@
         <mxCell id="CUMsRrcN4JXkig_kcpdD-98" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 130px;&quot;&gt;SERVER INITIATED UNI-DIRECTIONAL QUIC STREAM [ HTTP DECODER STREAM ] ID = 11&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="9465" y="12700" width="3335" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="CUMsRrcN4JXkig_kcpdD-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CUMsRrcN4JXkig_kcpdD-99" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;" vertex="1" parent="1">
           <mxGeometry x="8500" y="14390" width="5600" height="550" as="geometry" />
         </mxCell>
         <mxCell id="CUMsRrcN4JXkig_kcpdD-100" value="&lt;div style=&quot;font-size: 200px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 200px;&quot;&gt;&lt;b&gt;On Server Side, First Packet 2 arrives, Packet 1 got lost&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1574,6 +1580,9 @@
         </mxCell>
         <mxCell id="CUMsRrcN4JXkig_kcpdD-116" value="&lt;div style=&quot;font-size: 200px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 200px;&quot;&gt;&lt;b&gt;Client gets notified that sent headers are not processed and retransmits this header data.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="16220" y="14360" width="5330" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMsRrcN4JXkig_kcpdD-118" value="&lt;div style=&quot;font-size: 200px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 200px;&quot;&gt;&lt;b&gt;While parsing Packet 2 encoded headers&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28850" y="8040" width="560" height="1500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
