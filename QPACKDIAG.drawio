@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T09:54:22.811Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="VXbMlsZx6VPZ9RNzFkAd" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T09:55:14.826Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Y4b-IXgAIZrauyuj_e4o" version="24.5.4" type="github">
   <diagram name="Page-1" id="rB43j8RhS7YDx2vSrmHb">
     <mxGraphModel dx="30560" dy="10827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1564,8 +1564,8 @@
         <mxCell id="CUMsRrcN4JXkig_kcpdD-110" value="&lt;div align=&quot;justify&quot; style=&quot;font-size: 200px;&quot;&gt;&lt;font style=&quot;font-size: 200px;&quot;&gt;&lt;b&gt;While parsing Packet 2 encoded headers&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13608" y="10270" width="7110" height="405" as="geometry" />
         </mxCell>
-        <mxCell id="CUMsRrcN4JXkig_kcpdD-112" value="&lt;div style=&quot;font-size: 160px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 160px;&quot;&gt;&lt;b&gt;Required Insert Count = 1 But Here Total Dynamic Table entries = 0. So it doesn&#39;t parse this header and blocks this stream.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="19300" y="9860" width="2470" height="370" as="geometry" />
+        <mxCell id="CUMsRrcN4JXkig_kcpdD-112" value="&lt;div style=&quot;font-size: 160px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 160px;&quot;&gt;&lt;b&gt;Required Insert Count = 1 But here Total Dynamic Table entries = 0. So it doesn&#39;t parse this header and blocks this stream.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="19300" y="9860" width="1980" height="650" as="geometry" />
         </mxCell>
         <mxCell id="CUMsRrcN4JXkig_kcpdD-113" value="&lt;div style=&quot;font-size: 200px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 200px;&quot;&gt;&lt;b&gt;Server&#39;s Decoder waits some time for Insert instruction. But due to delay, retransmitted packet arrives late&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15250" y="11520" width="5350" height="660" as="geometry" />
