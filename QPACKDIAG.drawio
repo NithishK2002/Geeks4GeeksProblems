@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T10:47:41.652Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="rIWjSpfhoOoJpZddDO61" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T11:10:45.439Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="0Vr7Ny86qiRA0lzDu5-H" version="24.5.4" type="github">
   <diagram name="Page-1" id="rB43j8RhS7YDx2vSrmHb">
-    <mxGraphModel dx="30560" dy="10827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="38190" dy="15690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1592,6 +1592,12 @@
             <mxPoint x="13350" y="13520" as="sourcePoint" />
             <mxPoint x="15903" y="14954" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CUMsRrcN4JXkig_kcpdD-123" value="&lt;div style=&quot;font-size: 300px;&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 300px;&quot;&gt;ENCODER SIDE&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-730" y="6680" width="2900" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMsRrcN4JXkig_kcpdD-124" value="&lt;div style=&quot;font-size: 300px;&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 300px;&quot;&gt;DECODER SIDE&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="13450" y="6580" width="2900" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
